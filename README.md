@@ -73,7 +73,3 @@ Garage API is a RESTful API built using Node.js, Express.js, and MongoDB. It pro
    npm start
    ```
 
-## License
-
-This project is licensed under the MIT License.
-
